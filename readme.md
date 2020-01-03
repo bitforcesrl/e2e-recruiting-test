@@ -10,6 +10,8 @@ if you want to change the browser change the broeser name in this script in pack
 
 #Exercise:
 
+fork the repo and create a branch in your repo called feature/test
+
 - goto https://www.prada.com/it/it.html, test that the page exist and the main tabs are present
 - navigate to https://www.prada.com/it/it/women/shoes/sneakers.html
   - select the fist product,
